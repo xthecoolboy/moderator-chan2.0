@@ -1,0 +1,8 @@
+{
+  "permission":{
+    "sendMessages":{
+      "message": "No Send Messages Permission",
+      "fix": "Add Send Messages Permission from the permissions panel"
+    }
+  }
+}
