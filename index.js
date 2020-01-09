@@ -1,6 +1,5 @@
 const Commando = require('discord.js-commando');
 const Discord = require('discord.js');
-const auth = require('./auth.json');
 const fs = require("fs");
 const bot = new Commando.Client({disableEveryone: true,unknownCommandResponse: false});
 bot.commands = new Discord.Collection();
